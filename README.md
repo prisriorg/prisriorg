@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm Priyansh, I'am specialize in developing web an
 ### 🚀 About Me
 
 - 💻 **Technologies:**  
-  - Languages: `Kotlin`, `Golang`, `TypeScript`, `Rust`, `Python`, `Java`, `JavaScript`
-  - Web: `nodejs`, `Django`, `Nextjs`, `Hono`, `Flask`
+  - Languages: `Kotlin`, `Golang`, `TypeScript`, `Rust`, `Python`, `Java`, `JavaScript`, `Php`, `Dart`
+  - Web: `Nodejs`, `Express`, `Hono`, `Django`, `Nextjs`, `Flask`, `Laravel 8`
   - Mobile: `Android`, `iOS`, `Compose Multiplatform`, `React Native`, `Flutter`
   - Backend: `Next.js`, `Node.js`, `Drizzle ORM`
   - Cloud & DevOps: `AWS`, `GCP`, `Azure`
