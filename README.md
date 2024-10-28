@@ -1,8 +1,8 @@
-# 👋 Hello, I'm [Priyansh Srivastava](http://prisri.org)
+# 👋 Hello, I'm [Priyansh Srivastava]()
 
 **🚀 Full-Stack Developer | 🎮 Game Developer | ☁️ Cloud DevOps Specialist**
 
-Welcome to my GitHub profile! I'm Priyansh, a passionate developer based in Jaunpur, India. I specialize in developing web and mobile applications, leveraging advanced tech stacks and frameworks to bring ideas to life. My expertise spans across various domains, from **Blockchain** and **IoT** to **Web3 Security** and **AI/ML**.
+Welcome to my GitHub profile! I'm Priyansh, I'am specialize in developing web and mobile applications, leveraging advanced tech stacks and frameworks to bring ideas to life. My expertise spans across various domains, from **Blockchain** and **IoT** to **Web3 Security** and **AI/ML**.
 
 ---
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Priyansh, a passionate developer based in Jaun
   - Cloud & DevOps: `AWS`, `GCP`, `Azure`
   - Blockchain & Web3: `Solidity`, `Smart Contract Security`
   
-- 🌐 [**My Website**](http://prisri.org) | 🏆 **GitHub Stars:** 10+ | 📈 **Public Repos:** 10+
+- 🏆 **GitHub Stars:** 10+ | 📈 **Public Repos:** 10+
 
 ---
 
