@@ -39,6 +39,8 @@ A tagline generator for Cymbal Direct's products using Vertex AI Studio and the 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prisriorg&show_icons=true&locale=en" alt="prisriorg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prisriorg&" alt="prisriorg" /></p>
+
+---
 <!---
 
 ### 📫 Connect with Me
