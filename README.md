@@ -12,12 +12,12 @@ Welcome to my GitHub profile! I'm Priyansh, I'am specialize in developing web an
   - Languages: `Kotlin`, `Golang`, `TypeScript`, `Rust`, `Python`, `Java`, `JavaScript`, `Php`, `Dart`
   - Web: `Nodejs`, `Express`, `Hono`, `Django`, `Nextjs`, `Flask`, `Laravel 8`
   - Mobile: `Android`, `iOS`, `Compose Multiplatform`, `React Native`, `Flutter`
-  - Serverless: `deno`, `hono`, `Next.js`, `AWS Lambda`, `Cloud Functions`, `Cloudflare's workers`
+  - Serverless: `deno`, `hono`, `Next.js`, `AWS Lambda`, `Cloudflare's workers`
   - Backend: `Next.js`, `Node.js`, `Drizzle ORM`
   - Cloud & DevOps: `AWS`, `GCP`, `Azure`
   - Blockchain & Web3: `Solidity`, `Smart Contract Security`
   
-- 🏆 **GitHub Stars:** 10+ | 📈 **Public Repos:** 10+
+- 🏆 **GitHub Stars:** 15+ | 📈 **Public Repos:** 10+
 
 ---
 
