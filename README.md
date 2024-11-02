@@ -129,6 +129,8 @@ A tagline generator for Cymbal Direct's products using Vertex AI Studio and the 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
+
+
 ---
 
 **Thanks for visiting my profile!** 🙏 I’m always open to collaborations and new projects – feel free to reach out!
