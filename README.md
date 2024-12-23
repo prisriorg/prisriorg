@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm Priyansh, I'am specialize in developing web an
 ---
 
 ### 🛠️ My Projects
-#### [📈 Cymbal Direct Tagline Generator](https://github.com/YourUsername/CymbalDirect-TaglineGenerator)
-A tagline generator for Cymbal Direct's products using Vertex AI Studio and the **Gemini 1.5 Pro model**.
+#### [📈 KD Player](https://github.com/prisriorg/kd-player)
+.
 
 ---
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
