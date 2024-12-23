@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Priyansh, I'am specialize in developing web an
 ---
 
 ### 🛠️ My Projects
-#### [📈 KD Player](https://github.com/prisriorg/kd-player)
+#### [📈 KD Player](https://github.com/prisriorg/KD-Player)
 .
 
 ---
