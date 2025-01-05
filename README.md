@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm Priyansh, I'am specialize in developing web an
 #### [Telegram Mini App in Nextjs Template](https://github.com/prisriorg/Telegram-Mini-App-in-Nextjs-Template)
 #### [Stopwatch Pro](https://github.com/prisriorg/StopwatchPro)
 #### [X-Bucks](https://github.com/prisriorg/X-Bucks) - it's private
-#### [https://github.com/prisriorg/Calculator](Calculator)
+#### [Calculator](https://github.com/prisriorg/Calculator)
 #### [AWS-Presigned-URL-using-Python](https://github.com/prisriorg/AWS-Presigned-URL-using-Python)
 .
 
