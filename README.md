@@ -22,7 +22,13 @@ Welcome to my GitHub profile! I'm Priyansh, I'am specialize in developing web an
 ---
 
 ### 🛠️ My Projects
-#### [📈 KD Player](https://github.com/prisriorg/KD-Player)
+#### [KD Player](https://github.com/prisriorg/KD-Player)
+#### [GameZilla](https://github.com/prisriorg/GameZilla)
+#### [BharatDisk](https://github.com/prisriorg/bharatdisk)
+#### [Youtube Video Downloader](https://github.com/prisriorg/Youtube-Video-Downloader)
+#### [CoinCon Telegram Bot](https://github.com/prisriorg/Conicon-bot)
+#### [Tik Tac Toe](https://github.com/prisriorg/TikTacToe)
+#### [Hono API with Drizzle](https://github.com/prisriorg/hono-API-with-drizzle)
 .
 
 ---
