@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Priyansh, I'am specialize in developing web an
   - Cloud & DevOps: `AWS`, `GCP`, `Azure`
   - Blockchain & Web3: `Solidity`, `Smart Contract Security`
   
-- 🏆 **GitHub Stars:** 15+ | 📈 **Public Repos:** 10+
+- 🏆 **GitHub Stars:** 30+ | 📈 **Public Repos:** 30+
 
 ---
 
