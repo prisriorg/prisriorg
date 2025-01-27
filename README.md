@@ -108,14 +108,6 @@ Welcome to my GitHub profile! I'm Priyansh, I'am specialize in developing web an
 
 ---
 
-### 🏆 Achievements
-
-- 📊 Contributed to **10+ open-source projects** with 100+ stars combined
-- 👥 Developed a **referral system** for seamless user onboarding
-- 📱 Google Pay Business Partner  
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prisriorg&show_icons=true&locale=en&layout=compact" alt="prisriorg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prisriorg&show_icons=true&locale=en" alt="prisriorg" /></p>
