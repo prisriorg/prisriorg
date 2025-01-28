@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm Priyansh, I'am specialize in developing web an
 #### [Hono API with Drizzle](https://github.com/prisriorg/hono-API-with-drizzle)
 #### [Telegram Mini App in Nextjs Template](https://github.com/prisriorg/Telegram-Mini-App-in-Nextjs-Template)
 #### [Stopwatch Pro](https://github.com/prisriorg/StopwatchPro)
-#### [X-Bucks](https://github.com/prisriorg/X-Bucks) - it's private
+#### [X-Bucks](https://github.com/prisriorg/X-Bucks)
 #### [Calculator](https://github.com/prisriorg/Calculator)
 #### [AWS-Presigned-URL-using-Python](https://github.com/prisriorg/AWS-Presigned-URL-using-Python)
 .
