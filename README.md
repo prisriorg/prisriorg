@@ -133,6 +133,9 @@ Welcome to my GitHub profile! I'm Priyansh, I'am specialize in developing web an
 </div>
 
 
+
+<a href=#><img src="github.svg"></a>
+
 ---
 
 **Thanks for visiting my profile!** 🙏 I’m always open to collaborations and new projects – feel free to reach out!
